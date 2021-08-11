@@ -3,4 +3,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IanVitor&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanVitor&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <a href="https://mail.google.com/ianvitor976@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/ian-vitor-moraes-da-silva-66295820b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
