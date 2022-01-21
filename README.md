@@ -4,7 +4,7 @@
   
 ##
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IanVitor&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanVitor&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IanVitor&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanVitor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
@@ -20,4 +20,5 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
+<br>
 <img src="https://github.com/IanVitor/IanVitor/blob/output/github-contribution-grid-snake.gif"/>
