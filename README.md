@@ -19,8 +19,10 @@
   
 <h4>Skills:
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB">
   <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC">
+  <img src="https://img.shields.io/badge/-HML5-333333?style=flat&logo=HTML5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6">
 </div>
 <br>
 <img src="https://github.com/IanVitor/IanVitor/blob/output/github-contribution-grid-snake.gif"/>
