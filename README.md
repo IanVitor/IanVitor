@@ -20,7 +20,7 @@
 <h4>Skills:
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img class="icon-preview" src="icons/c.svg" loading="lazy" alt="C icon">
 </div>
 <br>
 <img src="https://github.com/IanVitor/IanVitor/blob/output/github-contribution-grid-snake.gif"/>
