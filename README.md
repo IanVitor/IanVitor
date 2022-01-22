@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Ian Vitor!</h1>
   
-<h3>Sobre mim</h3>
+<h3>Sobre mim:</h3>
 <p> Estou me graduando em Ciência da Computação.<br> Quero aprender novas tecnologias e me preparar para o mercado de trabalho.</p>
   
 ##
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6">
 </div>
 
-##
+<hr>
 
 <h2>Contatos:
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
     <a href="https://wa.me/11982058050" target="_blank"><img src="https://camo.githubusercontent.com/9e14d752f593976919c0f346f5a8eee61323274bd851f3b74d1aceaa0eaf8819/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174734170702d3235643336363f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d323564333636266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f77612e6d652f35353834393831343330313230"></a>
 </div>
   
-##
+<hr>
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IanVitor&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanVitor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
