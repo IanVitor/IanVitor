@@ -1,6 +1,7 @@
-<h2>Hi, i am Ian Vitor!
+<h1>Olá, me chamo Ian Vitor!</h1>
   
-<h3>I am a Computer Science student who loves learn and solve problens.
+<h3>Sobre mim</h3>
+<p> Estou me graduando em Ciência da Computação.<br> Quero desenvolver minhas tecnicas de programação e me preparar para o mercado</p>
   
 ##
 
