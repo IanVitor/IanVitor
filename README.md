@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC">
   <img src="https://img.shields.io/badge/-HML5-333333?style=flat&logo=HTML5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6">
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript3&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E">
 </div>
 
 <h2>Contatos:
