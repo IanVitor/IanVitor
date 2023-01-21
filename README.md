@@ -7,11 +7,12 @@
 
 <h2>Tecnologias:
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB">
-  <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC">
   <img src="https://img.shields.io/badge/-HML5-333333?style=flat&logo=HTML5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=3178C6">
 </div>
 
 <h2>Contatos:
@@ -24,8 +25,6 @@
   
   
 <br>
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IanVitor&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanVitor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github.com/IanVitor/IanVitor/blob/output/github-contribution-grid-snake.gif"/>
 
