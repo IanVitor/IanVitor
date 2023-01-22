@@ -1,4 +1,4 @@
-<h1>Olá, me chamo Ian Vitor! 😀</h1>
+<h1>Olá! me chamo Ian Vitor. 😀</h1>
   
 <h3>Sobre mim:</h3>
 <p> Estou me graduando em Ciência da Computação.<br> Quero aprender novas tecnologias e me preparar para o mercado de trabalho.</p>
