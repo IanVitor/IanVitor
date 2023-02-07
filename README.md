@@ -1,4 +1,4 @@
-<h1>Olá! me chamo Ian Vitor. 😀</h1>
+<h1 align: center;>Olá! me chamo Ian Vitor. 😀</h1>
   
 <h3>Sobre mim:</h3>
 <p> Estou me graduando em Ciência da Computação.<br> Quero aprender novas tecnologias e me preparar para o mercado de trabalho.</p>
@@ -7,7 +7,7 @@
 
 <h2>Tecnologias:
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/-HML5-333333?style=flat&logo=HTML5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/-333333?style=flat&logo=HTML5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E">
