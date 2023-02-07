@@ -1,5 +1,5 @@
-<div margin:0 auto>
-  <h1 align: center;>Olá! me chamo Ian Vitor. 😀</h1>
+<div style="margin:0 auto">
+  <h1 style="align: center">Olá! me chamo Ian Vitor. 😀</h1>
 </div>
   
 <h3>Sobre mim:</h3>
@@ -9,7 +9,7 @@
 
 <h2>Tecnologias:
 <div style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/-333333?style=flat&logo=HTML5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E">
