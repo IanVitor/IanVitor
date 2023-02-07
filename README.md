@@ -1,4 +1,4 @@
-<div style="margin:0 auto">
+<div style="display:flex; justify-content: center;">
   <h1 style="align: center">Olá! me chamo Ian Vitor. 😀</h1>
 </div>
   
