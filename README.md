@@ -1,4 +1,6 @@
-<h1 align: center;>Olá! me chamo Ian Vitor. 😀</h1>
+<div margin:0 auto>
+  <h1 align: center;>Olá! me chamo Ian Vitor. 😀</h1>
+</div>
   
 <h3>Sobre mim:</h3>
 <p> Estou me graduando em Ciência da Computação.<br> Quero aprender novas tecnologias e me preparar para o mercado de trabalho.</p>
